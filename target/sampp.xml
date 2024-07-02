@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.37" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="validation of login fields" name="Cinema booking tickes" time="0.075">
+<system-out><![CDATA[
+Given user is bookmyshow in chrome browser..................................passed
+When user enter "Saba" and "Saba@12#4Ae"....................................passed
+And user click on login button..............................................passed
+When user select a movie and goes for payment...............................passed
+And user select the paymeent options........................................passed
+And user confirm payment option.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
